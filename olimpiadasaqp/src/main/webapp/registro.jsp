@@ -14,15 +14,15 @@
             <p>Nombre:</p>
             <input type="text" name="nombre"> <br>
 
-            <p>Correo electrónico:</p>
+            <p>Correo electrÃ³nico:</p>
             <input type="email" name="email"> <br>
 
-            <p>Contraseña:</p>
+            <p>ContraseÃ±a:</p>
             <input type="password" name="contrasena">
 
             <input type="submit" value="Registrarse">
         </form>
-        <p>¿Ya tienes una cuenta? <a href="index.jsp">Iniciar Sesión</a></p> 
+        <p>Â¿Ya tienes una cuenta? <a href="index.jsp">Iniciar SesiÃ³n</a></p> 
     </div>
 </body>
 </html>
