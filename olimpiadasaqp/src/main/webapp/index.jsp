@@ -5,21 +5,21 @@
 <head>
 <meta charset="ISO-8859-1">
 <link rel="stylesheet" href="css/style.css">
-<title>Iniciar Sesión | Olimpiadas AQP</title>
+<title>Iniciar SesiÃ³n | Olimpiadas AQP</title>
 </head>
 <body>
 <div class="login_box">
 	<h2>Olimpiadas AQP</h2>
 	<form action="ServletLogin" method="POST">
-		<p>Correo electrónico:</p>
+		<p>Correo electrÃ³nico:</p>
 		<input type="email" name="email"> <br>
 
-		<p>Contraseña:</p>
+		<p>ContraseÃ±a:</p>
 		<input type="password" name="contrasena">
 		
-		<input type="submit" value="Iniciar Sesión">
+		<input type="submit" value="Iniciar SesiÃ³n">
 	</form>
-	<p>¿No tienes una cuenta? <a href="registro.jsp">Regístrate</a></p> <!-- Enlace al formulario de registro -->
+	<p>Â¿No tienes una cuenta? <a href="registro.jsp">RegÃ­strate</a></p> <!-- Enlace al formulario de registro -->
 </div>
 </body>
 </html>
